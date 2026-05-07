@@ -1,0 +1,13 @@
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\bin\Debug\Librarary System.exe.config
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\bin\Debug\Librarary System.exe
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\bin\Debug\Librarary System.pdb
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\bin\Debug\MaterialSkin.dll
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary System.csproj.AssemblyReference.cache
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary_System.Form1.resources
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary_System.Properties.Resources.resources
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary System.csproj.GenerateResource.cache
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary System.csproj.CoreCompileInputs.cache
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarar.D8952F60.Up2Date
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary System.exe
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary System.pdb
+D:\DEH 2025 IT 072\HNDIT Notes\1st Year 2nd Semester\2nd Sem Group Project\Librarary System\Librarary System\obj\Debug\Librarary_System.Form2.resources
